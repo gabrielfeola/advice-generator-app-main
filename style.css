@@ -60,6 +60,10 @@ a {
     color: var(--lightCyan);
 }
 
+span {
+    text-align: center;
+}
+
 .card svg {
     margin-bottom: 15px;
 }
